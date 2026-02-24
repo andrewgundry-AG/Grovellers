@@ -9,7 +9,7 @@ const routes = [
         title: "60KM Gravel ride to Blackbushe CW",
         description: "text desciption goes here."
     },
-{
+    {
         file: "GPX/71KM Gravel ride to Pamber Forest.gpx",
         title: "71KM Gravel ride to Pamber Forest",
         description: "text desciption goes here."
@@ -34,6 +34,7 @@ routes.forEach((route, index) => {
         <h2>${route.title}</h2>
         <p>${route.description}</p>
         <div class="route-stats" id="stats${index}"></div>
+        <a href="${route.file}" download class="download-btn">Download GPX</a>
     `;
 
     card.appendChild(mapDiv);
