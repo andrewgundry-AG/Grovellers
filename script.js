@@ -1,4 +1,4 @@
-onst routes = [
+const routes = [
     {
         file: "gpx/48KM Gravel to Blackbushe CCW.gpx",
         title: "Gravel Ride to Blackbushe CCW",
