@@ -1,16 +1,16 @@
 const routes = [
     {
-        file: "gpx/48KM Gravel to Blackbushe CCW.gpx",
+        file: "GPX/48KM Gravel to Blackbushe CCW.gpx",
         title: "Gravel Ride to Blackbushe CCW",
         description: "text desciption goes here."
     },
     {
-        file: "gpx/60KM Gravel ride to Blackbushe CW.gpx",
+        file: "GPX/60KM Gravel ride to Blackbushe CW.gpx",
         title: "60KM Gravel ride to Blackbushe CW",
         description: "text desciption goes here."
     },
 {
-        file: "gpx/71KM Gravel ride to Pamber Forest.gpx",
+        file: "GPX/71KM Gravel ride to Pamber Forest.gpx",
         title: "71KM Gravel ride to Pamber Forest",
         description: "text desciption goes here."
     }
