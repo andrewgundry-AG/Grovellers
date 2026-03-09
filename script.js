@@ -7,7 +7,7 @@ const routes = [
     },
      {
         file: "GPX/29KM Easy Gravel loop from Cantley.gpx",
-        title: "Gravel Ride to 3 lakes CCW",
+        title: "29KM Easy Gravel loop from Cantley",
         description: "29km from Cantley Park - Starting at Cantley Park and heading up towards Cabbage hill, out towards Moss End and looping round past Fernygrove farm, along to the polo club(don’t ride on the cinders track) past Billingbear golf course and back to Cantley."
     },
     {
