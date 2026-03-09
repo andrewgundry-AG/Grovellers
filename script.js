@@ -8,7 +8,37 @@ const routes = [
      {
         file: "GPX/29KM Easy Gravel loop from Cantley.gpx",
         title: "Gravel Ride to 3 lakes CCW",
-        description: "9km from Cantley Park - Starting at Cantley Park and heading up towards Cabbage hill, out towards Moss End and looping round past Fernygrove farm, along to the polo club(don’t ride on the cinders track) past Billingbear golf course and back to Cantley."
+        description: "29km from Cantley Park - Starting at Cantley Park and heading up towards Cabbage hill, out towards Moss End and looping round past Fernygrove farm, along to the polo club(don’t ride on the cinders track) past Billingbear golf course and back to Cantley."
+    },
+    {
+        file: "GPX/30KM to the Ridges Stables Cafe.gpx",
+        title: "30KM Easy Gravel to the Ridges,Stables Cafe ",
+        description: "30km to the Ridges - leaving Peach Place and heading down towards  Gorrick plantation, through East Berks golf club and along the Finchampstead ridges, and up to Arborfield for coffee at the Stables, on towards Bearwood lakes and back to the start."
+    },
+    {
+        file: "GPX/33KM Night Gravel to the Siren Brewery V1.gpx",
+        title: "33KM Night Gravel to the Siren Brewery",
+        description: "33km to the Siren Brewery V1 - Starting at the Two Poplars and out though Gorrick Plantation  and off to Eversley, round Bramshill cutting up Farley hill to the Siren Brewery, back through Barkham, Doles lane to the pub."
+    },
+    {
+        file: "GPX/38KM Gravel to Henley, Vivs Cafe.gpx",
+        title: "38KM Gravel to Henley, Vivs Cafe",
+        description: "38km to Henley - Starting at the Wheelwrights Arms and off through  Dinton Pastures, crossing the Thames at Sonning and off to Henley to stop at Vivs cafe, a couple of climbs on this route before heading back  completing the three small loops."
+    },
+    {
+        file: "GPX/39KM Gravel ride through Swinley& tri lakes.gpx",
+        title: "39KM Gravel ride through Swinley& tri lakes",
+        description: "39km Swinley and the tri lakes - Leaving from Peach Place and heading down towards Finchampstead, and taking the trails to the tri lakes and up through Sandhurst,off towards Broadboard and the fire roads of Swinley, coffee at the lookout and back towards Wokingham."
+    },
+{
+        file: "GPX/40KM Gravel ride Two rivers loop.gpx",
+        title: "40KM Gravel ride Two rivers loop",
+        description: "40km Two rivers loop - Leaving from Cantley Park and heading out to Sindlesham and Shinfield crossing over the M4 through Greenpark and down onto the towpath of the river Kennet, following along through Reading and picking up the Thames path to Sonning,before heading back through Dinton and on to Cantley."
+    },
+    {
+        file: "GPX/45KM Gravel Ride to Risley Stables Cafe.gpx",
+        title: "45KM Gravel Ride to Risley, Stables Cafe",
+        description: "45km to Risley - leaving Wokingham and off past Bearwood lakes, carrying along to Swallowfield  before climbing Beech hill and round to Risley, Bramshill and up to the Stables cafe at Arborfield , completing the loop back to Peach Place."
     },
     {
         file: "GPX/48KM Gravel to Blackbushe CCW.gpx",
