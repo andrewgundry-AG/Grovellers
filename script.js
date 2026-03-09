@@ -1,7 +1,7 @@
 const routes = [
     
     {
-        file: "GPX/26KM Easy Gravel ride to 3 lakes.gpx",
+        file: "GPX/26KM Easy Gravel ride to 3 lakes .gpx",
         title: "Gravel Ride to 3 lakes CCW",
         description: "26km easy ride to 3 lakes - A short flat ride past California country park through Finchampstead and the lakes at Yateley looping back to the start at Peach Place."
     },
@@ -26,7 +26,7 @@ const routes = [
         description: "38km to Henley - Starting at the Wheelwrights Arms and off through  Dinton Pastures, crossing the Thames at Sonning and off to Henley to stop at Vivs cafe, a couple of climbs on this route before heading back  completing the three small loops."
     },
     {
-        file: "GPX/39KM Gravel ride through Swinley& tri lakes.gpx",
+        file: "GPX/39 KM Gravel ride through Swinley& tri lakes.gpx",
         title: "39KM Gravel ride through Swinley& tri lakes",
         description: "39km Swinley and the tri lakes - Leaving from Peach Place and heading down towards Finchampstead, and taking the trails to the tri lakes and up through Sandhurst,off towards Broadboard and the fire roads of Swinley, coffee at the lookout and back towards Wokingham."
     },
@@ -46,10 +46,36 @@ const routes = [
         description: "48km to Blackbushe CCW - From Peach Place heading off towards Swallowfield, cutting through Wellington country park and Bramshill,down to the Pathfinder cafe at Blackbushe. Heading back to Wokingham taking the single tracks through Yateley and Gorrick Plantation"
     },
     {
+        file: "GPX/50KM Gravel Ride to Sip and Spoke.gpx",
+        title: "50KM Gravel Ride to Sip and Spoke",
+        description: "11. 50km to Sip and Spoke - Heading off towards Cabbage Hill and Moss end, up to Holyport and heading past the airfield and onto Littlewick Green up the climb for coffee at Sip and Spoke. The return loop comes back through Knowl Hill and Sherlock Row through the polo club (don’t ride on the cinders track) and back through Billingbear to Wokingham."
+    },
+    {
+        file: "GPX/50KM Gravel ride to the Stables cafe.gpx",
+        title: "50KM Gravel ride to the Stables cafe",
+        description: "50km to the Stables cafe at- Heading out to Crowthorne down through Yateley and Sandhurst along the edge of Blackbushe airfield towards Farley Hill and Arborfield for coffee at the Stables cafe.Looping back round Coombes wood bringing the route back to Peach Place."
+    },
+    {
+        file: "GPX/54KM Gravel ride to H_Artisan cafe.gpx",
+        title: "654KM Gravel ride to H_Artisan cafe",
+        description: "54km to H’Artisan cafe - Leaving Cantley and heading along the byways to towards Holyport before turning towards White Waltham and down Crazies hill stopping at H’Artisan cafe before carrying on to Hare Hatch, the straight mile and Broadcommon lane and back to Cantley."
+    },
+    {
         file: "GPX/60KM Gravel ride to Blackbushe CW.gpx",
         title: "60KM Gravel ride to Blackbushe CW",
         description: "60km to Blackbushe CW - Heading out of Wokingham and down through East berks golf club, along the edge of Wellington college and down to Minley looping round to Blackbushe for coffee at the Pathfinder cafe. Off through Bramshill and Eversley cutting through the tri lakes and heading  back through Simons wood to the start."
     },
+    {
+        file: "GPX/63KM Gravel ride to Mapledurham cafe at Costa..gpx",
+        title: "63KM Gravel ride to Mapledurham cafe at Costa",
+        description: "63km to Mapledurham - leaving Cantley park and heading through Dinton pastures and onto Sonning to pick up the Thames path you head along through Caversham and out to Mapledurham, stopping at Costa for coffee and then heading onto the Nunhide gravel track, over the M4 and picking up the tow path back along the Kennet, through Shinfield and Barkham back to Cantley."
+    },
+    {
+        file: "GPX/64KM Gravel ride to Windsor Cinnamon Cafe back via great park .gpx",
+        title: "64KM Gravel ride to Windsor Cinnamon Cafe back via great park.",
+        description: "4km Windsor and the Great park - setting off from Peach Place and heading up to Fernygrove farm and taking the byway up to Bray lake and onto the gravel path along the Jubilee river and into Windsor for coffee and a bun at the Cinnamon cafe, leaving Windsor through the Great park and cutting through Ascot race course before taking the trails through Warfield back to Wokingham. "
+    },
+    
     {
         file: "GPX/71KM Gravel ride to Pamber Forest.gpx",
         title: "71KM Gravel ride to Pamber Forest",
