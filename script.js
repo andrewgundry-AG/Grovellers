@@ -5,6 +5,11 @@ const routes = [
         description: "text desciption goes here."
     },
     {
+        file: "GPX/26KM Easy Gravel ride to 3 lakes.gpx",
+        title: "Gravel Ride to 3 lakes CCW",
+        description: "26km easy ride to 3 lakes - A short flat ride past California country park through Finchampstead and the lakes at Yateley looping back to the start at Peach Place."
+    },
+    {
         file: "GPX/60KM Gravel ride to Blackbushe CW.gpx",
         title: "60KM Gravel ride to Blackbushe CW",
         description: "text desciption goes here."
