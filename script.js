@@ -1,13 +1,19 @@
 const routes = [
-    {
-        file: "GPX/48KM Gravel to Blackbushe CCW.gpx",
-        title: "Gravel Ride to Blackbushe CCW",
-        description: "48km to Blackbushe CCW - From Peach Place heading off towards Swallowfield, cutting through Wellington country park and Bramshill,down to the Pathfinder cafe at Blackbushe. Heading back to Wokingham taking the single tracks through Yateley and Gorrick Plantation"
-    },
+    
     {
         file: "GPX/26KM Easy Gravel ride to 3 lakes.gpx",
         title: "Gravel Ride to 3 lakes CCW",
         description: "26km easy ride to 3 lakes - A short flat ride past California country park through Finchampstead and the lakes at Yateley looping back to the start at Peach Place."
+    },
+     {
+        file: "GPX/29KM Easy Gravel loop from Cantley.gpx",
+        title: "Gravel Ride to 3 lakes CCW",
+        description: "9km from Cantley Park - Starting at Cantley Park and heading up towards Cabbage hill, out towards Moss End and looping round past Fernygrove farm, along to the polo club(don’t ride on the cinders track) past Billingbear golf course and back to Cantley."
+    },
+    {
+        file: "GPX/48KM Gravel to Blackbushe CCW.gpx",
+        title: "Gravel Ride to Blackbushe CCW",
+        description: "48km to Blackbushe CCW - From Peach Place heading off towards Swallowfield, cutting through Wellington country park and Bramshill,down to the Pathfinder cafe at Blackbushe. Heading back to Wokingham taking the single tracks through Yateley and Gorrick Plantation"
     },
     {
         file: "GPX/60KM Gravel ride to Blackbushe CW.gpx",
